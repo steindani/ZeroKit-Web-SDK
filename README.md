@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tresorit/ZeroKit-Web-SDK.svg?branch=master)](https://travis-ci.org/tresorit/ZeroKit-Web-SDK)
 # ZeroKit Web SDK
 This SDK exposes methods to help implement secure authentication and end-to-end encryption in your web application.
 It makes use of iframes loaded from a tenant server. These iframes deal with password inputs and run all the code that
